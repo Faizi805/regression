@@ -35,7 +35,6 @@ The project focuses on:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Faizi805/regression.git
-   cd regression-analysis
    ```
 2. Install the required dependencies:
    ```bash
